@@ -24,6 +24,6 @@
   "devDependencies": {
     "ava": "*",
     "snazzy": "^5.0.0",
-    "standard": "^11.0.0"
+    "standard": "^11.0.1"
   }
 }
