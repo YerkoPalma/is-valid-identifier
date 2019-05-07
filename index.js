@@ -4,7 +4,7 @@
 const assert = require('assert')
 
 if (!String.fromCodePoint) {
-  require('from-code-point')
+  require('./from-code-point')
 }
 
 module.exports = function isValidIdentifier (identifier, strict) {
