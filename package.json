@@ -2,7 +2,7 @@
   "name": "is-valid-identifier",
   "description": "check if a string is a valid ECMAscript identifier",
   "author": "Yerko",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "main": "index.js",
   "files": [
     "index.js",
