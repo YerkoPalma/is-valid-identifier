@@ -5,7 +5,8 @@
   "version": "2.0.1",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "from-code-point.js"
   ],
   "scripts": {
     "test": "standard --verbose | snazzy && ava"
